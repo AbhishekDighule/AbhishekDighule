@@ -9,7 +9,7 @@
 
 <h3 align="left">About me:</h3>
 <p align="left">
-- 🌱 I’m currently learning Data Science
+- 🌱 I’m currently learning **Data Science**
 
 - 💬 Ask me about **Python, Machine Learning Algorithms, Statistics**
 
