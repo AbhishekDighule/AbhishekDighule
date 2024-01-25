@@ -60,7 +60,7 @@
   
   <h2 align="left">Contact!</h2>
    * 📫 How to reach me: Linkedin - www.linkedin.com/in/abhishek-dighule-70834b24a<br> 
-   * 📫 How to reach me: Email - abhishekdighule0000@gmail.com
+   * 📫 How to reach me: Email - **abhishekdighule0000@gmail.com**
 
 ###
 
