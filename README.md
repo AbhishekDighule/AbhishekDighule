@@ -15,12 +15,12 @@
 
 - 📫 How to reach me **abhishekdighule0000@gmail.com**
   
+- 📫 How to reach me www.linkedin.com/in/abhishek-dighule-70834b24a
+  
 - ⚡ Fun fact: **Debuggers by Day, Problems Solver by Night**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="www.linkedin.com/in/abhishek-dighule-70834b24a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishekdighule" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/abhishek-dighule" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek-dighule" height="30" width="40" /></a>
-
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
