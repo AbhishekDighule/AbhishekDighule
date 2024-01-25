@@ -4,7 +4,6 @@
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBBX110gdjMrxZ6O1iYVn4et80D03d_PxCqg&usqp=CAU" width="1000"/>
 </div>
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
@@ -75,12 +74,6 @@
 </div>
 
 ###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
-</div>
-
-
 
 <h3 align="left">🔥   My Stats :</h3>
 
