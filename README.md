@@ -54,7 +54,7 @@
   🔭 I’m currently working on an ITIL project, where I predict RFC and ITSM asset misconfigurations using various machine learning techniques.<br>-
   🌱 I’m currently learning Flask, SQL, and advanced statistics.<br>- 💬 Ask me about Python, pandas, numpy, matplotlib, seaborn, machine learning, and anything related to data science.<br>-
   📫 How to reach me: LinkedIn - www.linkedin.com/in/abhishek-dighule-70834b24a,
-  Email -<abhishekdighule0000@gmail.com>
+  Email -<<abhishekdighule0000@gmail.com>>
   😄 Pronouns: he/him<br>- 
   ⚡ Fun fact: I love playing chess and reading books.<br><br>
   
