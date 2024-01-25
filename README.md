@@ -7,30 +7,18 @@
 <h3 align="center">Aspiring Data Scientist || AI Enthusiast ||  Machine Learning Associate</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dishankharkar&label=Profile%20views&color=0e75b6&style=flat" alt="dishankharkar" /> </p>
-
-<p align="left"> <a href="https://twitter.com/kharkar_dishant" target="blank"><img src="https://img.shields.io/twitter/follow/kharkar_dishant?logo=twitter&style=for-the-badge" alt="kharkar_dishant" /></a> </p>
-
-- 🌱 I’m currently learning **Data Science**
+<h3 align="left">About me:</h3>
+<p align="left">
+- 🌱 I’m currently learning Data Science
 
 - 💬 Ask me about **Python, Machine Learning Algorithms, Statistics**
 
-- 📫 How to reach me **dishantkharkar9@gmail.com**
+- 📫 How to reach me **abhishekdighule0000@gmail.com**
   
-- ⚡ Fun fact: Debuggers by Day, Problems Solver by Night. 🙂.<br><br>
-
-  h2 align="left">Skills!</h2>
-  
-  Languages: Python, SQL<br>- Libraries: pandas, numpy, matplotlib, seaborn, scikit-learn, Flask<br>- Tools: Git, GitHub, Jupyter Notebook, VS Code<br>- 
-  Concepts: Machine learning, statistics, data analysis, data visualization, data cleaning, feature engineering, model selection, model evaluation<br><br>
-  
-
+- ⚡ Fun fact: **Debuggers by Day, Problems Solver by Night**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/kharkar_dishant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kharkar_dishant" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/dishantkharkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dishantkharkar" height="30" width="40" /></a>
-<a href="https://kaggle.com/dishantkharkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="dishantkharkar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/abhishekdighule" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishekdighule" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -38,9 +26,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Dishantkharkar&show_icons=true&locale=en&layout=compact" alt="Dishantkharkar" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Dishantkharkar&show_icons=true&locale=en" alt="Dishantkharkar" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishekdighule&show_icons=true&locale=en" alt="abhishekdighule" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dishantkharkar&" alt="Dishankharkar" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekdighule&" alt="abhishekdighule" /></p>
 
 ###
 
