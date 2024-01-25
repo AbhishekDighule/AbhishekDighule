@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.pinimg.com/originals/77/29/f4/7729f4ebf5dd3d6754dee0ed5837ef77.gif"  />
+<img align="centre" height="150" src="https://i.pinimg.com/originals/77/29/f4/7729f4ebf5dd3d6754dee0ed5837ef77.gif"  />
 
 ###
 
@@ -53,13 +53,16 @@
 <h2 align="left">About me!</h2>
   🔭 I’m currently working on an ITIL project, where I predict RFC and ITSM asset misconfigurations using various machine learning techniques.<br>-
   🌱 I’m currently learning Flask, SQL, and advanced statistics.<br>- 💬 Ask me about Python, pandas, numpy, matplotlib, seaborn, machine learning, and anything related to data science.<br>-
-  📫 How to reach me: [LinkedIn](www.linkedin.com/in/abhishek-dighule-70834b24a), [Email] abhishekdighule0000@gmail.com-
+  📫 How to reach me: LinkedIn - www.linkedin.com/in/abhishek-dighule-70834b24a, Email - abhishekdighule0000@gmail.com
   😄 Pronouns: he/him<br>- 
   ⚡ Fun fact: I love playing chess and reading books.<br><br>
-  ## Skills<br><br>- 
+  
+  <h2 align="left">Skills!</h2>
+  
   Languages: Python, SQL<br>- Libraries: pandas, numpy, matplotlib, seaborn, scikit-learn, Flask<br>- Tools: Git, GitHub, Jupyter Notebook, VS Code<br>- 
   Concepts: Machine learning, statistics, data analysis, data visualization, data cleaning, feature engineering, model selection, model evaluation<br><br>
-  ## Contact<br><br><details><br>  <summary>Click to expand</summary><br><br>  If you want to contact me, you can reach me at:<br><br>  - [LinkedIn](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github)<br>  - [Twitter](https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/)<br>  - [Email](https://yushi95.medium.com/how-to-create-a-beautiful-readme-for-your-github-profile-36957caa711c)<br></details></p>
+  <h2 align="left">Contact!</h2>
+  If you want to contact me, you can reach me at:<br><br>  - [LinkedIn](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github)<br>  - [Twitter](https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/)<br>  - [Email](https://yushi95.medium.com/how-to-create-a-beautiful-readme-for-your-github-profile-36957caa711c)<br></details></p>
 
 ###
 
@@ -90,4 +93,3 @@
 </div>
 
 ###
-https://github.com/Tanwar-12#--%F0%9D%90%B6%F0%9D%91%9C%F0%9D%91%9B%F0%9D%91%9B%F0%9D%91%92%F0%9D%91%90%F0%9D%91%A1-%F0%9D%91%8A%F0%9D%91%96%F0%9D%91%A1%E2%84%8E-%F0%9D%91%80%F0%9D%91%92-
