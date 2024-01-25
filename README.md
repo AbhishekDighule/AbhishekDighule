@@ -62,8 +62,9 @@
   
   Languages: Python, SQL<br>- Libraries: pandas, numpy, matplotlib, seaborn, scikit-learn, Flask<br>- Tools: Git, GitHub, Jupyter Notebook, VS Code<br>- 
   Concepts: Machine learning, statistics, data analysis, data visualization, data cleaning, feature engineering, model selection, model evaluation<br><br>
+  
   <h2 align="left">Contact!</h2>
-  If you want to contact me, you can reach me at:<br><br>  - [LinkedIn](www.linkedin.com/in/abhishek-dighule-70834b24a)<br>  - [Twitter](https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/)<br>  - [Email](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)<br></details></p>
+   📫 How to reach me: LinkedIn - www.linkedin.com/in/abhishek-dighule-70834b24a<br> - Email - https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox<br></details></p>
 
 ###
 
