@@ -1,28 +1,3 @@
-<h2 align="left">Hi there👋! My name is Abhishek</h2>
-
-###
-
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBBX110gdjMrxZ6O1iYVn4et80D03d_PxCqg&usqp=CAU" width="1000"/>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-</div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-
-
-
-
-
-
 
 ### Hi there 👋
 
