@@ -46,12 +46,20 @@
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="www.linkedin.com/in/abhishek-dighule-70834b24a" height="35" alt="linkedin logo"  />
-</div>
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 
 ###
 
-<p align="left">## About me<br><br>- 🔭 I’m currently working on an ITIL project, where I predict RFC and ITSM asset misconfigurations using various machine learning techniques.<br>- 🌱 I’m currently learning Flask, SQL, and advanced statistics.<br>- 💬 Ask me about Python, pandas, numpy, matplotlib, seaborn, machine learning, and anything related to data science.<br>- 📫 How to reach me: [LinkedIn](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github), [Twitter](https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/), [Email](https://yushi95.medium.com/how-to-create-a-beautiful-readme-for-your-github-profile-36957caa711c)<br>- 😄 Pronouns: he/him<br>- ⚡ Fun fact: I love playing chess and reading books.<br><br>## Skills<br><br>- Languages: Python, SQL<br>- Libraries: pandas, numpy, matplotlib, seaborn, scikit-learn, Flask<br>- Tools: Git, GitHub, Jupyter Notebook, VS Code<br>- Concepts: Machine learning, statistics, data analysis, data visualization, data cleaning, feature engineering, model selection, model evaluation<br><br>## Contact<br><br><details><br>  <summary>Click to expand</summary><br><br>  If you want to contact me, you can reach me at:<br><br>  - [LinkedIn](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github)<br>  - [Twitter](https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/)<br>  - [Email](https://yushi95.medium.com/how-to-create-a-beautiful-readme-for-your-github-profile-36957caa711c)<br></details></p>
+<h2 align="left">About me!</h2>
+  🔭 I’m currently working on an ITIL project, where I predict RFC and ITSM asset misconfigurations using various machine learning techniques.<br>-
+  🌱 I’m currently learning Flask, SQL, and advanced statistics.<br>- 💬 Ask me about Python, pandas, numpy, matplotlib, seaborn, machine learning, and anything related to data science.<br>-
+  📫 How to reach me: [LinkedIn](www.linkedin.com/in/abhishek-dighule-70834b24a), [Email] abhishekdighule0000@gmail.com-
+  😄 Pronouns: he/him<br>- 
+  ⚡ Fun fact: I love playing chess and reading books.<br><br>
+  ## Skills<br><br>- 
+  Languages: Python, SQL<br>- Libraries: pandas, numpy, matplotlib, seaborn, scikit-learn, Flask<br>- Tools: Git, GitHub, Jupyter Notebook, VS Code<br>- 
+  Concepts: Machine learning, statistics, data analysis, data visualization, data cleaning, feature engineering, model selection, model evaluation<br><br>
+  ## Contact<br><br><details><br>  <summary>Click to expand</summary><br><br>  If you want to contact me, you can reach me at:<br><br>  - [LinkedIn](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github)<br>  - [Twitter](https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/)<br>  - [Email](https://yushi95.medium.com/how-to-create-a-beautiful-readme-for-your-github-profile-36957caa711c)<br></details></p>
 
 ###
 
@@ -82,5 +90,3 @@
 </div>
 
 ###
-
-
