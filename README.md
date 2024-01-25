@@ -2,7 +2,7 @@
 
 ###
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBBX110gdjMrxZ6O1iYVn4et80D03d_PxCqg&usqp=CAU" width="500"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBBX110gdjMrxZ6O1iYVn4et80D03d_PxCqg&usqp=CAU" width="1000"/>
 </div>
 ###
 
