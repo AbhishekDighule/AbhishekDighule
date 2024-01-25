@@ -5,6 +5,10 @@
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBBX110gdjMrxZ6O1iYVn4et80D03d_PxCqg&usqp=CAU" width="1000"/>
 </div>
 
+
+
+
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
@@ -56,7 +60,7 @@
   
   <h2 align="left">Contact!</h2>
    * 📫 How to reach me: Linkedin - www.linkedin.com/in/abhishek-dighule-70834b24a<br> 
-   * 📫 How to reach me abhishekdighule0000@gmail.com
+   * 📫 How to reach me: Email - abhishekdighule0000@gmail.com
 
 ###
 
