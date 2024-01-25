@@ -2,8 +2,8 @@
 
 ###
 
-<img align="middle" height="150" src="https://i.pinimg.com/originals/77/29/f4/7729f4ebf5dd3d6754dee0ed5837ef77.gif"  />
-
+<img src="https://i.pinimg.com/originals/77/29/f4/7729f4ebf5dd3d6754dee0ed5837ef77.gif" width="500"/>
+</div>
 ###
 
 <div align="left">
